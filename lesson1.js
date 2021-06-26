@@ -12,11 +12,11 @@ console.log(number);
 console.log(`誕生日は ${number} です`);
 
 // 配列
-// 配列内の値を「要素」という
+// 配列内の値 : 要素
 const numbers = [1, 2, 3, 6, 10];
 
 console.log(numbers);
-console.log(numbers.length);　 // 5
+console.log(numbers.length);
 
 // オブジェクト
 // プロパティ: 値
@@ -26,6 +26,6 @@ const item = {
     hobby: "サッカー"
 }
 
-console.log(item.name);　 // 次郎
-console.log(item.age);　 // 20
-console.log(item.hobby);　 // サッカー
+console.log(item.name);
+console.log(item.age);
+console.log(item.hobby);
